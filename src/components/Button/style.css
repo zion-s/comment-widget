@@ -1,0 +1,20 @@
+.btn-group {
+  border-radius: 5px;
+  padding: 10px;
+  cursor: pointer;
+  margin: 0 5px;
+  text-transform: uppercase;
+  background-color: transparent;
+}
+.delete-button {
+  color: red;
+  border: 2px solid red;
+}
+.reply-button {
+  color: #1876d1;
+  border: 2px solid #1876d1;
+}
+.edit-button {
+  color: #118a51;
+  border: 2px solid #118a51;
+}
